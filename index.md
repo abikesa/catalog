@@ -2,3 +2,4 @@
 2. [manson](https://abikesa.github.io/will/)
 3. [peterson](https://github.com/abikesa/jordanpeterson)
 4. [schlemiel](https://github.com/abikesa/schlemiel)
+5. [digital](https://github.com/abikesa/digital/blob/main/index.md)
