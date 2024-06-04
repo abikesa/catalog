@@ -540,7 +540,7 @@
 70. [bcmodel](https://github.com/muzaale/bcmodel)
 71. [idioms](https://github.com/muzaale/idioms)
 74. [alpha](https://github.com/jhurepos/projectalpha)
-62. [rdc]https://github.com/jhurepos/rdc()
+62. [rdc](https://github.com/jhurepos/rdc)
 63. [beta](https://github.com/jhurepos/projectbeta)
 64. [dsmb](https://github.com/jhurepos/dsmb)
 65. [stata](https://github.com/jhurepos/stata)
