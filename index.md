@@ -568,4 +568,5 @@
 72. [gpt-pilot](https://github.com/jhurepos/gpt-pilot)
 73. [kelly](https://github.com/jhurepos/kelly)
 74. [jb create](https://abikesa.github.io/create/intro.html)
+75. [shell](https://abikesa.github.io/shell/)
 
