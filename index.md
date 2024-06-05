@@ -573,4 +573,7 @@
 573. [flying](https://github.com/abikesa/flying/blob/main/README.md)
 574. [joyce](https://muzaale.github.io/denotas/bdn2023/bdn202308.html#bloom)
 575. [churchy](https://abikesa.github.io/church/)
+576. [donors](https://abikesa.github.io/nondonor/notebooks.html)
+577. [job](https://github.com/abikesa/job)
+578. [iframe](https://abikesa.github.io/iframe/)
 
