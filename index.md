@@ -571,4 +571,5 @@
 75. [shell](https://abikesa.github.io/shell/)
 572. [denotas](https://muzaale.github.io/denotas/)
 573. [flying](https://github.com/abikesa/flying/blob/main/README.md)
+574. [joyce](https://muzaale.github.io/denotas/bdn2023/bdn202308.html#bloom)
 
