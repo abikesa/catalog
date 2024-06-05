@@ -116,7 +116,7 @@
 62. [bonnie](https://github.com/abikesa/bonnielonze)
 63. [network](https://github.com/abikesa/network)
 64. [dofile](https://github.com/abikesa/dofile)
-65. [workflow](https://github.com/abikesa/workflow)
+65. [workflow](https://abikesa.github.io/workflow/intro.html)
 66. [coding](https://github.com/abikesa/coding)
 67. [top](https://abikesa.github.io/top/)
 68. [phenotype](https://github.com/abikesa/phenotype)
