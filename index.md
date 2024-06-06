@@ -365,7 +365,7 @@
 72. [khaneman](https://github.com/abikesa/reimbursement)
 73. [voice](https://abikesa.github.io/voice)
 74. [ventura](https://github.com/abikesa/marventura)
-75. [thesis](https://github.com/abikesa/thesis)
+75. [thesis](https://abikesa.github.io/thesis/)
 62. [art-science](https://github.com/abikesa/artscience)
 63. [values](https://github.com/abikesa/values)
 64. [mtdna](https://github.com/abikesa/mtdna)
