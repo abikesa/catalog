@@ -261,7 +261,7 @@
 74. [dhats](https://github.com/abikesa/dhatemwa)
 62. [mozart](https://github.com/abikesa/mozart)
 63. [tragedy](https://github.com/abikesa/tragedy)
-64. [casablanca](https://github.com/abikesa/casablanca)
+64. [casablanca](https://abikesa.github.io/casablanca/)
 65. [tylerperry](https://github.com/abikesa/tylerperry)
 66. [darien](https://github.com/abikesa/darien)
 67. [nyaru](https://github.com/abikesa/nyaru)
