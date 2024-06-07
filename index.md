@@ -172,7 +172,7 @@
 171. [stochastic](https://github.com/abikesa/stochastic)
 172. [emails](https://github.com/abikesa/emails)
 173. [nonbinary](https://github.com/abikesa/nonbinary)
-174. [sheba](https://github.com/abikesa/sheba)
+174. [djiki](https://github.com/abikesa/sheba)
 175. [ethan coen](https://github.com/abikesa/ethancoen)
 176. [sentience](https://github.com/abikesa/sentience)
 177. [reharm](https://github.com/abikesa/reharm)
@@ -582,3 +582,4 @@
 581. [dogg](https://abikesa.github.io/adog/)
 582. [california grid](https://abikesa.github.io/californiagrid/)
 583. [graph theory](https://abikesa.github.io/graphtheory/)
+584. [sociology](https://abikesa.github.io/sociology/)
