@@ -584,3 +584,4 @@
 583. [graph theory](https://abikesa.github.io/graphtheory/)
 584. [sociology](https://abikesa.github.io/sociology/)
 585. [revolution](https://abikesa.github.io/revolution/)
+586. [savior](https://abikesa.github.io/savior/)
