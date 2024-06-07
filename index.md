@@ -588,4 +588,4 @@
 587. [~/.https/id_apollodionysus](https://abikesa.github.io/dionysus/intro.html)
 588. [~/.https/id_macbookpro](https://abikesa.github.io/pro/intro.html)
 589. [~/.https/id_poseidonodysseus](https://abikesa.github.io/odysseus/intro.html)
-590. [vectors of nonjbprojects]()
+590. [vectors of nonjbprojects](https://abikesa.github.io/odysseus/markdown.html)
