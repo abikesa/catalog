@@ -596,3 +596,4 @@
 595. [bias-variance](https://abikesa.github.io/bias-variance/)
 596. [cause](https://www.youtube.com/watch?v=easWqy08wr8) and will and [strength and means](https://abikesa.github.io/means/)
 597. [altman](https://abikesa.github.io/samaltman/)
+598. [identity](https://abikesa.github.io/identity/)
