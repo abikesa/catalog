@@ -593,3 +593,4 @@
 592. [personalized](https://abikesa.github.io/personalized/)
 593. [magic bullet](https://abikesa.github.io/magicbullet/)
 594. [platonic](https://abikesa.github.io/platonic/)
+595. [bias-variance](https://abikesa.github.io/bias-variance/)
