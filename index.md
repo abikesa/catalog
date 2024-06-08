@@ -592,3 +592,4 @@
 591. [solid lipid nanoparticles](https://abikesa.github.io/encode/) 
 592. [personalized](https://abikesa.github.io/personalized/)
 593. [magic bullet](https://abikesa.github.io/magicbullet/)
+594. [platonic](https://abikesa.github.io/platonic/)
