@@ -589,3 +589,5 @@
 588. [~/.https/id_macbookpro](https://abikesa.github.io/pro/intro.html)
 589. [~/.https/id_poseidonodysseus](https://abikesa.github.io/odysseus/intro.html)
 590. [vectors of nonjbprojects](https://abikesa.github.io/odysseus/markdown.html)
+591. [solid lipid nanoparticles](https://abikesa.github.io/encode/) 
+592. [personalized](https://abikesa.github.io/personalized/)
