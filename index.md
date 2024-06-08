@@ -594,3 +594,4 @@
 593. [magic bullet](https://abikesa.github.io/magicbullet/)
 594. [platonic](https://abikesa.github.io/platonic/)
 595. [bias-variance](https://abikesa.github.io/bias-variance/)
+596. [cause](https://www.youtube.com/watch?v=easWqy08wr8), will, strength, and [means](https://abikesa.github.io/means/)
