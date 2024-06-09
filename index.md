@@ -230,7 +230,7 @@
 229. [cigars](https://github.com/abikesa/cigars)
 230. [metaphysics](https://github.com/abikesa/metaphysics)
 231. [insidertrading](https://github.com/abikesa/insidertrading)
-232. [greeks](https://github.com/abikesa/greeks)
+232. [greeks](https://abikesa.github.io/greeks/)
 233. [hierarchy](https://github.com/abikesa/hierarchy)
 234. [sopranos](https://github.com/abikesa/sopranos)
 235. [school of resentment](https://github.com/abikesa/schoolofresentment)
