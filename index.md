@@ -263,7 +263,7 @@
 262. [mozart](https://github.com/abikesa/mozart)
 263. [tragedy](https://github.com/abikesa/tragedy)
 264. [casablanca](https://abikesa.github.io/casablanca/)
-265. [tyler perry](https://github.com/abikesa/tylerperry)
+265. [tyler perry]https://abikesa.github.io/tylerperry/)
 266. [darien](https://github.com/abikesa/darien)
 267. [nyaru](https://github.com/abikesa/nyaru)
 268. [hedonism](https://github.com/abikesa/hedonism)
