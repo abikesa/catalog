@@ -473,7 +473,7 @@
 472. [style](https://github.com/abikesa/style)
 473. [ultra](https://github.com/abikesa/ultra)
 474. [iciarus](https://github.com/abikesa/icarus)
-475. [chomsky-foucault](https://github.com/abikesa/chomsky-foucault)
+475. [chomsky-foucault](https://abikesa.github.io/chomsky-foucault/)
 476. [flamenco](https://github.com/abikesa/flamenco)
 477. [che](https://github.com/abikesa/che)
 478. [aesthetic](https://abikesa.github.io/aesthetic/intro.html)
