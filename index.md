@@ -603,4 +603,4 @@
 602. [henry v](https://abikesa.github.io/henryv/)
 603. [nationalism](https://abikesa.github.io/nationalism/)
 604. [irkernel](https://abikesa.github.io/kernel/intro.html)
-605. [ipython pystatal](https://abikesa.github.io/pystata/intro.html)
+605. [ipython pystata](https://abikesa.github.io/pystata/intro.html)
