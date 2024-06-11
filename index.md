@@ -343,7 +343,7 @@
 342. [career](https://github.com/abikesa/career)
 343. [idioms](https://github.com/abikesa/idioms)
 344. [yafe](https://github.com/abikesa/yafe)
-345. [hamlet](https://github.com/abikesa/hamlet)
+345. [hamlet](https://abikesa.github.io/hamlet/)
 346. [psalm](https://github.com/abikesa/psalm)
 347. [isabirye](https://github.com/abikesa/isabirye)
 348. [fedosa](https://github.com/abikesa/fedosa)
