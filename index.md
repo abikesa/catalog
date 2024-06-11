@@ -605,3 +605,4 @@
 604. [irkernel](https://abikesa.github.io/kernel/intro.html)
 605. [ipython pystata](https://abikesa.github.io/pystata/intro.html)
 606. [setup](https://abikesa.github.io/setup/)
+607. [dynamic](https://abikesa.github.io/dynamic/)
