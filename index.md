@@ -602,3 +602,4 @@
 601. [trial](https://abikesa.github.io/trial/)
 602. [henry v](https://abikesa.github.io/henryv/)
 603. [nationalism](https://abikesa.github.io/nationalism/)
+604. [irkernel](https://abikesa.github.io/kernel/intro.html)
