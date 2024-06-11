@@ -203,7 +203,7 @@
 202. [alden](https://github.com/abikesa/alden)
 203. [agi](https://github.com/abikesa/agi)
 204. [annungamya](https://github.com/abikesa/annungamya)
-205. [python](https://github.com/abikesa/python)
+205. [python](https://abikesa.github.io/python/intro.html)
 206. [ssh](https://github.com/abikesa/ssh)
 207. [social network](https://github.com/abikesa/socialnetwork)
 208. [neurology](https://github.com/abikesa/neurology)
