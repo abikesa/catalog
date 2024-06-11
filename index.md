@@ -150,7 +150,7 @@
 149. [mrc](https://github.com/abikesa/mcr)
 150. [holding it down](https://github.com/abikesa/holdingitdown)
 151. [debarge](https://github.com/abikesa/eldebarge)
-152. [music](https://github.com/abikesa/music)
+152. [music](https://abikesa.github.io/music/)
 153. [sfumato](https://github.com/abikesa/sfumato)
 154. [fitness](https://github.com/abikesa/fitness)
 155. [joshua](https://github.com/abikesa/joshua)
