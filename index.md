@@ -607,4 +607,4 @@
 606. [setup](https://abikesa.github.io/setup/)
 607. [dynamic](https://abikesa.github.io/dynamic/)
 608. [cars](https://abikesa.github.io/cars/)
-609. 
+609. [morality](https://abikesa.github.io/morality/)
