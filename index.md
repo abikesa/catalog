@@ -194,7 +194,7 @@
 193. [bernstein](https://github.com/abikesa/bernstein)
 194. [theodds](https://github.com/abikesa/theodds)
 195. [subversion](https://github.com/abikesa/subversion)
-196. [history](https://github.com/abikesa/history)
+196. [history](https://abikesa.github.io/history/)
 197. [boa](https://github.com/abikesa/boa)
 198. [*la distinction*](https://github.com/abikesa/ladistinction)
 199. [seven samurai](https://github.com/abikesa/sevensamurai)
