@@ -88,7 +88,7 @@
 87. [atsuko](https://github.com/abikesa/atsuko)
 88. [mva](https://github.com/abikesa/mva)
 89. [marums](https://github.com/abikesa/marums)
-90. [lor](https://github.com/abikesa/lor)
+90. [lor](https://abikesa.github.io/lor/)
 91. [three](https://abikesa.github.io/three/)
 92. [zuckerberg](https://github.com/abikesa/zuckerberg)
 93. [success](https://abikesa.github.io/success/)
