@@ -604,3 +604,4 @@
 603. [nationalism](https://abikesa.github.io/nationalism/)
 604. [irkernel](https://abikesa.github.io/kernel/intro.html)
 605. [ipython pystata](https://abikesa.github.io/pystata/intro.html)
+606. [setup](https://abikesa.github.io/setup/)
