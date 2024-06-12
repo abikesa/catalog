@@ -612,3 +612,4 @@
 611. [effortless](https://abikesa.github.io/effortless/)
 612. [setup env](https://abikesa.github.io/environment/)
 613. [just do it!](https://abikesa.github.io/it/)
+614. [multilingual scripts](https://abikesa.github.io/scripts/)
