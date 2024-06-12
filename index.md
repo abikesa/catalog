@@ -16,7 +16,7 @@
 15. [boltz](https://github.com/abikesa/boltz)
 16. [trials](https://github.com/abikesa/clinicaltrials)
 17. [latex](https://github.com/abikesa/LaTeX)
-18. [microsoft](https://github.com/abikesa/microsoft)
+18. [microsoft](https://abikesa.github.io/microsoft/)
 19. [grind](https://github.com/abikesa/dailygrind)
 20. [aging](https://github.com/abikesa/aging)
 21. [native](https://github.com/abikesa/native)
