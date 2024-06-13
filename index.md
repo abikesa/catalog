@@ -205,7 +205,7 @@
 204. [annungamya](https://github.com/abikesa/annungamya)
 205. [python](https://abikesa.github.io/python/intro.html)
 206. [ssh](https://github.com/abikesa/ssh)
-207. [social network](https://github.com/abikesa/socialnetwork)
+207. [social network](https://abikesa.github.io/socialnetwork/)
 208. [neurology](https://github.com/abikesa/neurology)
 209. [hide](https://github.com/abikesa/hide)
 210. [arsenal](https://github.com/abikesa/arsenal)
