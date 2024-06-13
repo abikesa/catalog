@@ -620,3 +620,5 @@
 619. [mass destruction](https://abikesa.github.io/destruction/)
 620. [donor app](https://abikesa.github.io/app/)
 621. [aim 3](https://abikesa.github.io/aimthree/)
+622. [aim 2](https://abikesa.github.io/aimthree/)
+623. [aim 1](https://abikesa.github.io/aimthree/)
