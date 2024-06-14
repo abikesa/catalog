@@ -631,3 +631,4 @@
 629. [jama worthy](https://abikesa.github.io/worthy/)
 630. [cellular](https://abikesa.github.io/cellular/)
 631. [kevin bond](https://abikesa.github.io/kevinbond/)
+632. [generalize stata](https://abikesa.github.io/generalize/)
