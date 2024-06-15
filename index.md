@@ -634,3 +634,4 @@
 632. [generalize stata](https://abikesa.github.io/generalize/)
 633. [wikipedia](https://abikesa.github.io/wikipedia/)
 634. [fatca](https://abikesa.github.io/fatca/)
+635. [my wikitemplate](https://abikesa.github.io/wikitemplate/)
