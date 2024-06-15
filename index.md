@@ -239,7 +239,7 @@
 237. [annie hall](https://github.com/abikesa/anniehall)
 238. [maids](https://github.com/abikesa/maids)
 239. [betsy](https://github.com/abikesa/betsy)
-240. [philosophy](https://github.com/abikesa/philosophy)
+240. [philosophy](https://abikesa.github.io/philosophy/)
 241. [md phd](https://github.com/abikesa/mdphd)
 242. [sixties](https://github.com/abikesa/sixties)
 243. [countires](https://github.com/abikesa/countries)
