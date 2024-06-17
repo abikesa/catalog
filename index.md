@@ -168,7 +168,7 @@
 166. [asante](https://github.com/abikesa/asante)
 167. [odds](https://github.com/abikesa/odds)
 168. [wine source](https://github.com/abikesa/winesource)
-169. [template](https://github.com/abikesa/template)
+169. [template](https://abikesa.github.io/template/)
 170. [bills](https://github.com/abikesa/bills)
 171. [stochastic](https://github.com/abikesa/stochastic)
 172. [emails](https://github.com/abikesa/emails)
