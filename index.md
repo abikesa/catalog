@@ -289,7 +289,7 @@
 287. [ragnarok](https://github.com/abikesa/ragnarok)
 288. [abc](https://github.com/abikesa/abc)
 289. [hideth](https://github.com/abikesa/abc)
-290. [life](https://github.com/abikesa/life)
+290. [life](https://abikesa.github.io/life/intro.html)
 291. [prediction](https://github.com/abikesa/prediction)
 292. [counterfeit](https://github.com/abikesa/counterfeit)
 293. [luxury](https://github.com/abikesa/luxury)
