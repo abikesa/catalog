@@ -429,7 +429,7 @@
 427. [error](https://github.com/abikesa/error)
 428. [sheetmusic](https://github.com/abikesa/sheetmusic)
 429. [ccc](https://github.com/abikesa/ccc)
-430. [art](https://github.com/abikesa/art)
+430. [art](https://abikesa.github.io/art/)
 431. [dailygrind](https://github.com/abikesa/dialygrind)
 432. [tele](https://github.com/abikesa/tele)
 433. [liver](https://github.com/abikesa/liver)
