@@ -10,7 +10,7 @@
 8. [oakland](https://github.com/abikesa/weisner)
 9. [guess](https://github.com/abikesa/guesswho)
 10. [apple](https://abikesa.github.io/apple/)
-11. [beer](https://github.com/abikesa/aficionado)
+11. [beer](https://abikesa.github.io/aficionado/)
 12. [trappiste](https://abikesa.github.io/belgian/)
 13. [networks](https://abikesa.github.io/networks/)
 14. [kelly](https://github.com/abikesa/rkelly)
