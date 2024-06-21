@@ -57,7 +57,7 @@
 57. [obama](https://abikesa.github.io/obama/)
 58. [father-to-son](https://github.com/abikesa/fathertoson)
 59. [chappelle](https://github.com/abikesa/davechappelle)
-60. [seinfeld](https://github.com/abikesa/jerryseinfeld)
+60. [seinfeld](https://abikesa.github.io/jerryseinfeld/)
 61. [quickdeploy](https://abikesa.github.io/quickdeploy/)
 62. [raj](https://github.com/abikesa/rajubhandari)
 63. [valuechain](https://abikesa.github.io/valuechain/)
