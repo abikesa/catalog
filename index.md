@@ -232,7 +232,7 @@
 232. [greeks](https://abikesa.github.io/greeks/)
 233. [hierarchy](https://github.com/abikesa/hierarchy)
 234. [sopranos](https://github.com/abikesa/sopranos)
-235. [school of resentment](https://github.com/abikesa/schoolofresentment)
+235. [school of resentment](https://abikesa.github.io/schoolofresentment)
 236. [la beauté](https://github.com/abikesa/beauty)
 237. [annie hall](https://github.com/abikesa/anniehall)
 238. [maids](https://github.com/abikesa/maids)
