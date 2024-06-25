@@ -155,7 +155,7 @@
 155. [joshua](https://github.com/abikesa/joshua)
 156. [structure](https://github.com/abikesa/structure)
 157. [autoencoder](https://github.com/abikesa/autoencoder)
-158. [coenbrothers](https://github.com/abikesa/coenbrothers)
+158. [coenbrothers](https://abikesa.github.io/coenbrothers)
 159. [welch center](https://github.com/abikesa/center)
 160. [vscode](https://github.com/abikesa/vscode)
 161. [vicarious](https://github.com/abikesa/vicarious)
