@@ -260,7 +260,7 @@
 260. [conspiracy](https://github.com/abikesa/conspiracy)
 261. [dhats](https://github.com/abikesa/dhatemwa)
 262. [mozart](https://github.com/abikesa/mozart)
-263. [tragedy](https://github.com/abikesa/tragedy)
+263. [tragedy](https://abikesa.github.io/tragedy)
 264. [casablanca](https://abikesa.github.io/casablanca/)
 265. [tyler perry](https://abikesa.github.io/tylerperry/)
 266. [darien](https://github.com/abikesa/darien)
