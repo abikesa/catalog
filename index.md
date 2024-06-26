@@ -121,7 +121,7 @@
 121. [top](https://abikesa.github.io/top/)
 122. [phenotype](https://github.com/abikesa/phenotype)
 123. [url](https://github.com/abikesa/url)
-124. [nietzsche](https://github.com/abikesa/nietzsche)
+124. [nietzsche](https://abikesa.github.io/nietzsche/)
 125. [idea](https://github.com/abikesa/idea)
 126. [rivaldo](https://github.com/abikesa/rivaldo)
 127. [bonnie & clyde](https://github.com/abikesa/bonnieandclyde)
