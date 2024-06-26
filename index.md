@@ -1,6 +1,6 @@
 1. [nineth](https://abikesa.github.io/nineth/9th.m4a)
 2. [manson](https://abikesa.github.io/will/)
-3. [peterson](https://github.com/abikesa/jordanpeterson)
+3. [peterson](https://abikesa.github.io/jordanpeterson)
 4. [schlemiel](https://github.com/abikesa/schlemiel)
 5. [digital](https://github.com/abikesa/digital/blob/main/index.md)
 6. [brahms](https://abikesa.github.io/brahms/)
