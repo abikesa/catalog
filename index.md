@@ -2,7 +2,7 @@
 2. [manson](https://abikesa.github.io/will/)
 3. [peterson](https://abikesa.github.io/jordanpeterson)
 4. [schlemiel](https://github.com/abikesa/schlemiel)
-5. [digital](https://github.com/abikesa/digital/blob/main/index.md)
+5. [digital age](https://abikesa.github.io/digital)
 6. [brahms](https://abikesa.github.io/brahms/)
 7. [festo](https://abikesa.github.io/festokivengere/)
 8. [oakland](https://github.com/abikesa/weisner)
