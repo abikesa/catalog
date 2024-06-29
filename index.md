@@ -1,4 +1,4 @@
-1. [nineth](https://abikesa.github.io/nineth/9th.m4a)
+1. [nineth](https://abikesa.github.io/nineth/)
 2. [manson](https://abikesa.github.io/will/)
 3. [peterson](https://abikesa.github.io/jordanpeterson)
 4. [schlemiel](https://github.com/abikesa/schlemiel)
