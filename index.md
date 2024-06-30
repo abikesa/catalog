@@ -13,7 +13,7 @@
 13. [networks](https://abikesa.github.io/networks/)
 14. [kelly](https://github.com/abikesa/rkelly)
 15. [boltz](https://github.com/abikesa/boltz)
-16. [clinical(https://abikesa.github.io/clinicaltrials) [trials](https://abikesa.github.io/experiment)
+16. [clinical](https://abikesa.github.io/clinicaltrials) [trials](https://abikesa.github.io/experiment)
 17. [dictation](https://abikesa.github.io/dictation)
 18. [microsoft](https://abikesa.github.io/microsoft/)
 19. [daily grind](https://github.com/abikesa/dailygrind)
