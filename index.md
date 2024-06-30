@@ -14,7 +14,7 @@
 14. [kelly](https://github.com/abikesa/rkelly)
 15. [boltz](https://github.com/abikesa/boltz)
 16. [trials](https://github.com/abikesa/clinicaltrials)
-17. [latex](https://github.com/abikesa/LaTeX)
+17. [dictation](https://abikesa.github.io/dictation)
 18. [microsoft](https://abikesa.github.io/microsoft/)
 19. [daily grind](https://github.com/abikesa/dailygrind)
 20. [aging](https://github.com/abikesa/aging)
