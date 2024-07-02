@@ -584,7 +584,7 @@
 584. [sociology](https://abikesa.github.io/sociology/)
 585. [revolution](https://abikesa.github.io/revolution/)
 586. [savior](https://abikesa.github.io/savior/)
-587. [~/.https/id_apollodionysus](https://abikesa.github.io/dionysus/intro.html)
+587. [~/.https/id_apollodionysus](https://abikesa.github.io/dionysus/)
 588. [~/.https/id_macbookpro](https://abikesa.github.io/pro/intro.html)
 589. [~/.https/id_poseidonodysseus](https://abikesa.github.io/odysseus/intro.html)
 590. [vectors of nonjbprojects](https://abikesa.github.io/odysseus/markdown.html)
