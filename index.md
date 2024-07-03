@@ -172,7 +172,7 @@
 172. [emails](https://github.com/abikesa/emails)
 173. [nonbinary](https://github.com/abikesa/nonbinary)
 174. [djiki](https://github.com/abikesa/sheba)
-175. [ethan coen](https://github.com/abikesa/ethancoen)
+175. [ethan coen](https://abikesa.github.io/ethancoen/)
 176. [sentience](https://github.com/abikesa/sentience)
 177. [reharm](https://github.com/abikesa/reharm)
 178. [bash](https://github.com/abikesa/bash)
