@@ -134,7 +134,7 @@
 134. [brathwaite](https://abikesa.github.io/brathwaite/intro.html)
 135. [sheri](https://github.com/abikesa/sherilawal)
 136. [metaphor](https://github.com/abikesa/metaphor)
-137. [joel-v-ethan](https://github.com/abikesa/joen_v_ethan)
+137. [joel-v-ethan](https://github.com/abikesa/joel_v_ethan)
 138. [mentor](https://github.com/abikesa/dorry)
 139. [chighur](https://github.com/abikesa/nocountryforoldmen)
 140. [implied](https://github.com/abikesa/implied)
