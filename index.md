@@ -133,7 +133,7 @@
 133. [gaza](https://github.com/abikesa/gaza)
 134. [brathwaite](https://abikesa.github.io/brathwaite/intro.html)
 135. [sheri](https://github.com/abikesa/sherilawal)
-136. [metaphor](https://abikesa/github.io/metaphor)
+136. [metaphor](https://abikesa.github.io/metaphor)
 137. [joel-v-ethan](https://abikesa.github.io/joel_v_ethan)
 138. [mentor](https://github.com/abikesa/dorry)
 139. [chighur](https://github.com/abikesa/nocountryforoldmen)
