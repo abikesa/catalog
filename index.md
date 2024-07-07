@@ -382,7 +382,7 @@
 382. [inflection](https://github.com/abikesa/inflection)
 383. [tournaments](https://github.com/abikesa/tournaments)
 384. [canada](https://github.com/abikesa/canada)
-385. [japan](https://github.com/abikesa/japan)
+385. [japan](https://abikesa.github.io/japan/)
 386. [whatshot](https://github.com/abikesa/whatshot)
 387. [existentialism](https://github.com/abikesa/existentialism)
 388. [larry](https://github.com/abikesa/lawrencebrown)
