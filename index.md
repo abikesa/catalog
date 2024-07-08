@@ -295,7 +295,7 @@
 295. [mhadpt](https://github.com/abikesa/mhadpt)
 296. [obituaries](https://github.com/abikesa/obituaries)
 297. [classical](https://github.com/abikesa/classical)
-298. [education](https://abikesa.github.io/education/intro.html)
+298. [education](https://abikesa.github.io/education)
 299. [cluster](https://github.com/abikesa/cluster)
 300. [andrew](https://github.com/abikesa/arking)
 301. [memory](https://github.com/abikesa/memory)
