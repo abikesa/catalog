@@ -105,7 +105,7 @@
 105. [mankind](https://github.com/abikesa/mankind)
 106. [wisdom](https://github.com/abikesa/wisdom)
 107. [vertigo](https://github.com/abikesa/vertigo)
-108. [tradition](https://github.com/abikesa/tradition)
+108. [tradition](https://abikesa.github.io/tradition)
 109. [ai](https://github.com/abikesa/ai)
 110. [temp](https://abikesa.github.io/temp/)
 111. [spjd](https://abikesa.github.io/spjd/)
