@@ -94,7 +94,7 @@
 94. [elon](https://github.com/abikesa/elonmusk)
 95. [html](https://github.com/abikesa/html)
 96. [credo](https://github.com/abikesa/credo)
-97. [steve jobs](https://github.com/abikesa/stevejobs)
+97. [steve jobs](https://abikesa.github.io/stevejobs)
 98. [academic](https://github.com/abikesa/academia)
 99. [social](https://abikesa.github.io/social/)
 100. [gender](https://github.com/abikesa/sex)
