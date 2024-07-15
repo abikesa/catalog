@@ -65,7 +65,7 @@
 65. [bach](https://abikesa.github.io/bach/)
 66. [llm](https://github.com/abikesa/llm)
 67. [webApp-v1-a](https://abikesa.github.io/webApp/)
-68. [arte-scienza](https://github.com/abikesa/artescienza)
+68. [arte-scienza](https://abikesa.github.io/artescienza)
 69. [shruti meeting](https://github.com/abikesa/shruti)
 70. [matrix](https://github.com/abikesa/matrix)
 71. [startup](https://github.com/abikesa/startup)
