@@ -321,7 +321,7 @@
 321. [verbs](https://github.com/abikesa/verbs)
 322. [cudjoe](https://github.com/abikesa/cudjoe.md)
 323. [idiomatic](https://github.com/abikesa/idiomatic)
-324. [p](https://github.com/abikesa/p)
+324. [p](https://abikesa.github.io/p)
 325. [colleen](https://github.com/abikesa/colleen)
 326. [journal](https://github.com/abikesa/journal)
 327. [zabuli](https://github.com/abikesa/zabuli)
