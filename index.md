@@ -426,7 +426,7 @@
 426. [bootcamp](https://github.com/abikesa/bootcamp)
 427. [error](https://github.com/abikesa/error)
 428. [sheetmusic](https://github.com/abikesa/sheetmusic)
-429. [idealism](https://github.com/abikesa/idealism)
+429. [idealism](https://abikesa.github.io/idealism)
 430. [art](https://abikesa.github.io/art/)
 431. [dailygrind](https://github.com/abikesa/dailygrind)
 432. [tele](https://github.com/abikesa/tele)
