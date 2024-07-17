@@ -280,7 +280,7 @@
 280. [umu](https://abikesa.github.io/umu/)
 281. [victory](https://github.com/abikesa/victory)
 282. [french](https://github.com/abikesa/french)
-283. [generalist](https://github.com/abikesa/generalist)
+283. [generalist](https://abikesa.github.io/generalist)
 284. [freud](https://github.com/abikesa/freud)
 285. [gpt](https://abikesa.github.io/gpt/)
 286. [temperament](https://github.com/abikesa/temperament)
