@@ -185,7 +185,7 @@
 185. [soul](https://github.com/abikesa/soul)
 186. [teaching](https://github.com/abikesa/teaching)
 187. [r](https://github.com/abikesa/r)
-188. [aesthetics](https://github.com/abikesa/aesthetics)
+188. [aesthetics](https://abikesa.github.io/aesthetics)
 189. [raw](https://github.com/abikesa/raw)
 190. [gem & rose](https://github.com/abikesa/gemrohs)
 191. [cv](https://github.com/abikesa/cv)
