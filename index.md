@@ -548,7 +548,7 @@
 548. [cores](https://github.com/jhurepos/cores)
 549. [teaching](https://github.com/jhurepos/teaching)
 550. [cps](https://github.com/jhurepos/cps)
-551. [logo](https://jhurepos.github.io)
+551. [logo](https://abikesa.github.io/logo)
 552. [immunology](https://github.com/jhurepos/immunology)
 553. [generalist](https://github.com/jhurepos/generalist)
 554. [aging](https://github.com/jhurepos/aging)
