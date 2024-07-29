@@ -304,7 +304,7 @@
 304. [brian](https://github.com/abikesa/caffo)
 305. [mode](https://github.com/abikesa/mode)
 306. [solomon](https://github.com/abikesa/solomon)
-307. [archetype](https://github.com/abikesa/archetypes)
+307. [archetype](https://abikesa.github.io/archetypes)
 308. [bcm](https://github.com/abikesa/bcm)
 309. [lebowski](https://github.com/abikesa/lebowski)
 310. [amadeus](https://github.com/abikesa/amadeus)
