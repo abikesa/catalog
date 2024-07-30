@@ -418,7 +418,7 @@
 418. [draw-a-ui](https://github.com/abikesa/draw-a-ui)
 419. [co-pilot](https://github.com/abikesa/copilot)
 420. [frailty](https://github.com/abikesa/frailty)
-421. [chopin](https://github.com/abikesa/chopin)
+421. [chopin](https://abikesa.github.io/chopin)
 422. [icc](https://github.com/abikesa/icc)
 423. [nutshell](https://github.com/abikesa/nutshell)
 424. [them-variation](https://github.com/abikesa/theme-variation)
