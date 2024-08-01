@@ -100,7 +100,7 @@
 100. [gender](https://github.com/abikesa/sex)
 101. [dag](https://github.com/abikesa/dag)
 102. [jamie dimon](https://github.com/abikesa/jamiedimon)
-103. [ethics](https://github.com/abikesa/ethics)
+103. [ethics](https://abikesa.github.io/ethics)
 104. [github](https://github.com/abikesa/github)
 105. [mankind](https://github.com/abikesa/mankind)
 106. [wisdom](https://github.com/abikesa/wisdom)
