@@ -291,7 +291,7 @@
 291. [prediction](https://github.com/abikesa/prediction)
 292. [counterfeit](https://github.com/abikesa/counterfeit)
 293. [luxury](https://github.com/abikesa/luxury)
-294. [das kapital](https://github.com/abikesa/daskapital)
+294. [das kapital](https://abikesa.github.io/daskapital)
 295. [mhadpt](https://github.com/abikesa/mhadpt)
 296. [obituaries](https://github.com/abikesa/obituaries)
 297. [classical](https://github.com/abikesa/classical)
