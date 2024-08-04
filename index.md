@@ -357,7 +357,7 @@
 357. [equity](https://github.com/abikesa/equity)
 358. [pmap](https://github.com/abikesa/pmap)
 359. [babadi](https://github.com/abikesa/sagharbabadi)
-360. [homage](https://github.com/abikesa/homage)
+360. [homage](https://abikesa.github.io/homage)
 361. [katumba](https://github.com/abikesa/katumbawamala)
 362. [judaism](https://github.com/abikesa/judaism)
 363. [jeff](https://github.com/abikesa/jeff)
