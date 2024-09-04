@@ -11,7 +11,7 @@
 11. [beer](https://abikesa.github.io/aficionado/)
 12. [trappiste](https://abikesa.github.io/belgian/)
 13. [networks](https://abikesa.github.io/networks/)
-14. [kelly](https://github.com/abikesa/rkelly)
+14. [kelly](https://abikesa.github.io/rkelly)
 15. [boltz](https://github.com/abikesa/boltz)
 16. [clinical](https://abikesa.github.io/clinicaltrials) [trials](https://abikesa.github.io/experiment)
 17. [dictation](https://abikesa.github.io/dictation)
