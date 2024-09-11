@@ -638,7 +638,7 @@
 638. [turing way](https://abikesa.github.io/way/)
 639. [khod'eyo netlify!](https://kodheyo.netlify.app) 
 640. [netlify workflow](https://abikesa.github.io/kodheyo/)
-641. [build anything, connect everything](https://abikesa.github.io/netify/)
+641. [joyce](https://abikesa.github.io/joyce/)
 642. [project deploy](https://abikesa.github.io/deploy/)
 643. [three aims](https://abikesa.github.io/aims/)
 644. [kenny edmonds](https://abikesa.github.io/edmonds/)
