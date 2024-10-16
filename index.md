@@ -135,7 +135,7 @@
 135. [sheri](https://github.com/abikesa/sherilawal)
 136. [metaphor](https://abikesa.github.io/metaphor)
 137. [joel-v-ethan](https://abikesa.github.io/joel_v_ethan)
-138. [mentor](https://github.com/abikesa/dorry)
+138. [mentor](https://abikesa.github.io/dorry)
 139. [chighur](https://github.com/abikesa/nocountryforoldmen)
 140. [implied](https://github.com/abikesa/implied)
 141. [idiom](https://github.com/abikesa/idiom)
