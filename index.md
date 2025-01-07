@@ -6,7 +6,7 @@
 6. [brahms](https://abikesa.github.io/brahms/)
 7. [festo](https://abikesa.github.io/festokivengere/)
 8. [oakland](https://github.com/abikesa/weisner)
-9. [guess](https://github.com/abikesa/guesswho)
+9. [guess](https://abikesa.github.io/guesswho)
 10. [apple](https://abikesa.github.io/apple/)
 11. [beer](https://abikesa.github.io/aficionado/)
 12. [trappiste](https://abikesa.github.io/belgian/)
