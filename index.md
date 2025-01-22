@@ -25,7 +25,7 @@
 25. [maps](https://github.com/abikesa/maps)
 26. [delta](https://github.com/abikesa/delta)
 27. [flow](https://abikesa.github.io/flow)
-28. [consilience](https://github.com/abikesa/consilience)
+28. [consilience](https://abikesa.github.io/consilience)
 29. [precision](https://github.com/abikesa/precision)
 30. [candance](https://github.com/abikesa/candaceowens)
 31. [fh](https://github.com/abikesa/farihakazi)
