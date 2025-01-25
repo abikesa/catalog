@@ -28,7 +28,7 @@
 28. [consilience](https://abikesa.github.io/consilience)
 29. [precision](https://abikesa.github.io/precision)
 30. [candance](https://abikesa.github.io/candaceowens)
-31. [fh](https://github.com/abikesa/farihakazi)
+31. [frankenstein](https://abikesa.github.io/frankenstein)
 32. [techstore](https://github.com/abikesa/techstore)
 33. [pep guardiola](https://github.com/abikesa/pepguardiola)
 34. [rnbmoney](https://github.com/abikesa/rnbmoney)
