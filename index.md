@@ -31,7 +31,7 @@
 31. [frankenstein](https://abikesa.github.io/frankenstein)
 32. [techstore](https://github.com/abikesa/techstore)
 33. [wild robot](https://abikesa.github.io/wildrobot)
-34. [rnbmoney](https://github.com/abikesa/rnbmoney)
+34. [geotheology](https://abikesa.github.io/geotheology)
 35. [humor](https://github.com/abikesa/jewishhumor)
 36. [sonora](https://github.com/abikesa/marum)
 37. [dude](https://github.com/abikesa/schlemiel)
