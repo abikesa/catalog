@@ -164,7 +164,7 @@
 164. [genZ](https://github.com/abikesa/genZ)
 165. [llama3](https://github.com/abikesa/llama3)
 166. [asante](https://github.com/abikesa/asante)
-167. [odds](https://github.com/abikesa/odds)
+167. [odds](https://abikesa.github.io/odds)
 168. [wine source](https://github.com/abikesa/winesource)
 169. [template](https://abikesa.github.io/template/)
 170. [bills](https://github.com/abikesa/bills)
