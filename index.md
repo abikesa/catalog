@@ -33,7 +33,7 @@
 33. [wild robot](https://abikesa.github.io/wildrobot)
 34. [geotheology](https://abikesa.github.io/geotheology)
 35. [brand](https://abikesa.github.io/brand)
-36. [sonora](https://github.com/abikesa/marum)
+36. [sonora](https://abikesa.github.io/sonora)
 37. [dude](https://github.com/abikesa/schlemiel)
 38. [jerkins](https://github.com/abikesa/darkchild)
 39. [tuition](https://github.com/abikesa/tuition)
