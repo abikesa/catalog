@@ -34,7 +34,7 @@
 34. [geotheology](https://abikesa.github.io/geotheology)
 35. [brand](https://abikesa.github.io/brand)
 36. [sonora](https://abikesa.github.io/sonora)
-37. [dude](https://github.com/abikesa/schlemiel)
+37. [gods](https://abikesa.github.io/gods)
 38. [jerkins](https://github.com/abikesa/darkchild)
 39. [tuition](https://github.com/abikesa/tuition)
 40. [surgery](https://github.com/abikesa/surgery)
