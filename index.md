@@ -44,7 +44,7 @@
 44. [stata](https://github.com/abikesa/stata)
 45. [fafsa](https://github.com/abikesa/nelnet)
 46. [minimalist](https://abikesa.github.io/minimalist/)
-47. [chloehalle](https://abikesa.github.io/chloehalle/)
+47. [claude](https://abikesa.github.io/claude/)
 48. [palate](https://abikesa.github.io/palate/)
 49. [john adams](https://abikesa.github.io/johnadams/)
 50. [gpt4](https://abikesa.github.io/gpt4/)
