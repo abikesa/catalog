@@ -48,7 +48,7 @@
 48. [palate](https://abikesa.github.io/palate/)
 49. [john adams](https://abikesa.github.io/johnadams/)
 50. [gpt4](https://abikesa.github.io/gpt4/)
-51. [joan](https://github.com/abikesa/joan)
+51. [joan](https://abikesa.github.io/joan)
 52. [donors](https://github.com/abikesa/donors)
 53. [vj](https://github.com/abikesa/vince)
 54. [mmd](https://github.com/abikesa/mara)
