@@ -49,7 +49,7 @@
 49. [john adams](https://abikesa.github.io/johnadams/)
 50. [gpt4](https://abikesa.github.io/gpt4/)
 51. [joan](https://abikesa.github.io/joan)
-52. [donors](https://github.com/abikesa/donors)
+52. [donors](https://abikesa.github.io/donors)
 53. [vj](https://github.com/abikesa/vince)
 54. [mmd](https://github.com/abikesa/mara)
 55. [pairs](https://abikesa.github.io/pairs/)
