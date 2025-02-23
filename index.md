@@ -29,7 +29,7 @@
 29. [precision](https://abikesa.github.io/precision)
 30. [candance](https://abikesa.github.io/candaceowens)
 31. [frankenstein](https://abikesa.github.io/frankenstein)
-32. [techstore](https://github.com/abikesa/techstore)
+32. [techstore](https://abikesa.github.io/techstore)
 33. [wild robot](https://abikesa.github.io/wildrobot)
 34. [geotheology](https://abikesa.github.io/geotheology)
 35. [brand](https://abikesa.github.io/brand)
