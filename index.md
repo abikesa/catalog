@@ -63,7 +63,7 @@
 63. [valuechain](https://abikesa.github.io/valuechain/)
 64. [noise-signal](https://abikesa.github.io/noise-signal)
 65. [bach](https://abikesa.github.io/bach/)
-66. [llm](https://github.com/abikesa/llm)
+66. [llm](https://abikesa.github.io/llm)
 67. [webApp-v1-a](https://abikesa.github.io/webApp/)
 68. [arte-scienza](https://abikesa.github.io/artescienza)
 69. [shruti meeting](https://github.com/abikesa/shruti)
