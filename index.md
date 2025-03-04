@@ -67,7 +67,7 @@
 67. [webApp-v1-a](https://abikesa.github.io/webApp/)
 68. [arte-scienza](https://abikesa.github.io/artescienza)
 69. [shruti meeting](https://abikesa.github.io/shruti)
-70. [matrix](https://github.com/abikesa/matrix)
+70. [matrix](https://abikesa.github.io/matrix)
 71. [startup](https://github.com/abikesa/startup)
 72. [mundane](https://github.com/abikesa/mundane)
 73. [industry](https://github.com/abikesa/industry)
