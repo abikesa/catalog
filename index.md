@@ -68,7 +68,7 @@
 68. [arte-scienza](https://abikesa.github.io/artescienza)
 69. [shruti meeting](https://abikesa.github.io/shruti)
 70. [matrix](https://abikesa.github.io/matrix)
-71. [startup](https://github.com/abikesa/startup)
+71. [startup](https://abikesa.github.io/startup)
 72. [mundane](https://github.com/abikesa/mundane)
 73. [industry](https://github.com/abikesa/industry)
 74. [computers](https://github.com/abikesa/computers)
