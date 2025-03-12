@@ -101,7 +101,7 @@
 101. [dag](https://github.com/abikesa/dag)
 102. [jamie dimon](https://github.com/abikesa/jamiedimon)
 103. [ethics](https://abikesa.github.io/ethics)
-104. [github](https://github.com/abikesa/github)
+104. [github](https://abikesa.github.io/github)
 105. [mankind](https://github.com/abikesa/mankind)
 106. [wisdom](https://github.com/abikesa/wisdom)
 107. [vertigo](https://github.com/abikesa/vertigo)
