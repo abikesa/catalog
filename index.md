@@ -97,7 +97,7 @@
 97. [steve jobs](https://abikesa.github.io/stevejobs)
 98. [academic](https://github.com/abikesa/academia)
 99. [social](https://abikesa.github.io/social/)
-100. [gender](https://github.com/abikesa/sex)
+100. [gender](https://abikesa.github.io/gender)
 101. [dag](https://github.com/abikesa/dag)
 102. [jamie dimon](https://github.com/abikesa/jamiedimon)
 103. [ethics](https://abikesa.github.io/ethics)
