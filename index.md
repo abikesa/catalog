@@ -73,7 +73,7 @@
 73. [family](https://abikesa.github.io/fam)
 74. [cg-best](https://abikesa.github.io/cg-best)
 75. [elections](https://abikesa.github.io/elections)
-76. [time](https://github.com/abikesa/time)
+76. [time](https://abikesa.github.io/time)
 77. [speed](https://github.com/abikesa/speed)
 78. [artists](https://github.com/abikesa/artists)
 79. [progress](https://github.com/abikesa/progress)
