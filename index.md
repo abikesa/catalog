@@ -77,7 +77,7 @@
 77. [speed](https://abikesa.github.io/speed)
 78. [artists](https://abikesa.github.io/artists)
 79. [progress](https://abikesa.github.io/progress)
-80. [man](https://github.com/abikesa/whatisaman)
+80. [man](https://abikesa.github.io/whatisaman)
 81. [society](https://github.com/abikesa/society)
 82. [uganda](https://abikesa.github.io/uganda/)
 83. [pain](https://github.com/abikesa/pain)
