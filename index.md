@@ -99,7 +99,7 @@
 99. [social](https://abikesa.github.io/social/)
 100. [gender](https://abikesa.github.io/gender)
 101. [dag](https://github.com/abikesa/dag)
-102. [jamie dimon](https://github.com/abikesa/jamiedimon)
+102. [jamie dimon](https://abikesa.github.io/jamiedimon)
 103. [ethics](https://abikesa.github.io/ethics)
 104. [github](https://abikesa.github.io/github)
 105. [life-raft](https://abikesa.github.io/life-raft)
