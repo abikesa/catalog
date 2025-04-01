@@ -89,7 +89,7 @@
 89. [marums](https://github.com/abikesa/marums)
 90. [lor](https://abikesa.github.io/lor/)
 91. [three](https://abikesa.github.io/three/)
-92. [zuckerberg](https://github.com/abikesa/zuckerberg)
+92. [zuckerberg](https://abikesa.github.io/zuckerberg)
 93. [success](https://abikesa.github.io/success/)
 94. [elon](https://abikesa.github.io/elonmusk)
 95. [html](https://github.com/abikesa/html)
