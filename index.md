@@ -92,7 +92,7 @@
 92. [zuckerberg](https://abikesa.github.io/zuckerberg)
 93. [success](https://abikesa.github.io/success/)
 94. [elon](https://abikesa.github.io/elonmusk)
-95. [html](https://github.com/abikesa/html)
+95. [html](https://abikesa.github.io/html)
 96. [credo](https://github.com/abikesa/credo)
 97. [steve jobs](https://abikesa.github.io/stevejobs)
 98. [academic](https://github.com/abikesa/academia)
