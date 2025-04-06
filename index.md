@@ -661,8 +661,8 @@
 661. [labor](https://abikesa.github.io/labor/)
 662. [anarchist](https://abikesa.github.io/anarchist/)
 663. [why-python](https://abikesa.github.io/why-python/)
-664. [and-why-r](https://abikesa.github.io/and-why-r/)
-665. [how-about-stata](https://abikesa.github.io/how-about-stata/)[.](https://abikesa.github.io/jonathan/#ref1)
+664. [and-why-r](https://abikesa.github.io/and-why-r/)[.](https//abikesa.github.io/jpi/)
+665. [how-about-stata](https://abikesa.github.io/how-about-stata/)[.](https://abikesa.github.io/jonathan/)
 666. [zarathustra](https://abikesa.github.io/zarathustra/)[.](https://abikesa.github.io/decoy/)
 
 
