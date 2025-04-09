@@ -657,7 +657,7 @@
 657. [leitmotif](https://abikesa.github.io/leitmotif/)
 658. [marx](https://abikesa.github.io/marx/)
 659. [medicine](https://abikesa.github.io/medicine/)
-660. [voicing](https://abikesa.github.io/voicing/)
+660. [voicing](https://abikesa.github.io/voicing/)[.](https://abikesa.github.io/jpi/)
 661. [labor](https://abikesa.github.io/labor/)[.](https://abikesa.github.io/dialogue/)
 662. [anarchist](https://abikesa.github.io/anarchist/)[.](https://github.com/ukubona-llc/totem/blob/main/README.md)
 663. [why-python](https://abikesa.github.io/why-python/)[.](https://raw.githubusercontent.com/abikesa/obfuscation/refs/heads/main/summarize.sh)
