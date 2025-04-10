@@ -656,7 +656,7 @@
 656. [market place](https://abikesa.github.io/market/)
 657. [leitmotif](https://abikesa.github.io/leitmotif/)
 658. [marx](https://abikesa.github.io/marx/)
-659. [medicine](https://abikesa.github.io/medicine/)
+659. [medicine](https://abikesa.github.io/medicine/)[.](https://abikesa.github.io/gtpci-forum/index.html#summary)
 660. [voicing](https://abikesa.github.io/voicing/)[.](https://abikesa.github.io/jpi/)
 661. [labor](https://abikesa.github.io/labor/)[.](https://abikesa.github.io/dialogue/)
 662. [anarchist](https://abikesa.github.io/anarchist/)[.](https://github.com/ukubona-llc/totem/blob/main/README.md)
