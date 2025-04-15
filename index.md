@@ -646,7 +646,7 @@
 646. [chloe x halle](https://abikesa.github.io/halle/)
 647. [anson & eric](https://abikesa.github.io/eric/)[.](https://abikesa.github.io/cover/)
 648. [github desktop](https://abikesa.github.io/desktop/)[.](https://github.com/abikesa/code)
-649. [create & destroy, everyday!](https://abikesa.github.io/everyday/)[.]()
+649. [create & destroy, everyday](https://abikesa.github.io/everyday/)[!]()
 650. [homage & reharm](https://abikesa.github.io/homage-reharm/)[.](https://abikesa.github.io/container/)
 651. [closing-gap](https://abikesa.github.io/closing-gap/)[.](https://abikesa.github.io/berklee/)
 652. [in-the-moment](https://abikesa.github.io/in-the-moment/)[.](https://abikesa.github.io/code-block/)
