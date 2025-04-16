@@ -1,4 +1,4 @@
-1. [nineth](https://abikesa.github.io/nineth/)
+1. [nineth](https://abikesa.github.io/nineth/)[.](https://github.com/abikesa/ipynb-settings)
 2. [manson](https://abikesa.github.io/will/)
 3. [peterson](https://abikesa.github.io/jordanpeterson)
 4. [sch](https://abikesa.github.io/schubert/)[lem](https://abikesa.github.io/schlemiel/)[iel](https://abikesa.github.io/haydn)
