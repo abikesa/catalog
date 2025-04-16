@@ -643,7 +643,7 @@
 643. [three aims](https://abikesa.github.io/aims/)
 644. [kenny edmonds](https://abikesa.github.io/edmonds/)
 645. [jam & lewis](https://abikesa.github.io/lewis/)
-646. [chloe x halle](https://abikesa.github.io/halle/)
+646. [chloe x halle](https://abikesa.github.io/halle/)[.](https://abikesa.github.io/ecosystem/)
 647. [anson & eric](https://abikesa.github.io/eric/)[.](https://abikesa.github.io/cover/)
 648. [github desktop](https://abikesa.github.io/desktop/)[.](https://github.com/abikesa/code)
 649. [create & destroy, everyday](https://abikesa.github.io/everyday/)[!]()
