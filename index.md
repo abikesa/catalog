@@ -636,7 +636,7 @@
 636. [nia grant](https://abikesa.github.io/grant/)[.](https://github.com/abikesa/gpt-image-read/blob/main/read.py)
 637. [macbook](https://abikesa.github.io/macbook/)[.](https://github.com/abikesa/new-repo/blob/main/new-repo.sh)
 638. [turing way](https://abikesa.github.io/way/)[.](https://abikesa.github.io/staten-island/)
-639. [khod'eyo netlify!](https://kodheyo.netlify.app)[.](https://abikesa.github.io/bronx/)
+639. [khod'eyo netlify](https://kodheyo.netlify.app)[!](https://abikesa.github.io/bronx/)
 640. [netlify workflow](https://abikesa.github.io/kodheyo/)[.](https://abikesa.github.io/queens/)
 641. [joyce](https://abikesa.github.io/joyce/)[.](https://abikesa.github.io/brooklyn/)
 642. [project deploy](https://abikesa.github.io/deploy/)[.](https://abikesa.github.io/manhattan/)
