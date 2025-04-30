@@ -592,7 +592,7 @@
 592. [personalized](https://abikesa.github.io/personalized/)
 593. [magic bullet](https://abikesa.github.io/magicbullet/)
 594. [platonic](https://abikesa.github.io/platonic/)
-595. [bias-variance](https://abikesa.github.io/bias-variance/)
+595. [bias-variance](https://abikesa.github.io/bias-variance/)[.](https://abikesa.github.io/imitative/)
 596. [cause](https://www.youtube.com/watch?v=easWqy08wr8) and will and [strength and means](https://abikesa.github.io/means/)[.](https://abikesa.github.io/ukuvela/)
 597. [altman](https://abikesa.github.io/samaltman/)[.](https://raw.githubusercontent.com/abikesa/deploy/refs/heads/main/deploy.py)
 598. [identity](https://abikesa.github.io/identity/)[.](https://abikesa.github.io/ubuntu/)
