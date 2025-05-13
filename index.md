@@ -586,7 +586,7 @@
 586. [savior](https://abikesa.github.io/savior/)
 587. [~/.https/id_apollodionysus](https://abikesa.github.io/dionysus/)
 588. [~/.https/id_macbookpro](https://abikesa.github.io/pro/)
-589. [~/.https/id_poseidonodysseus](https://abikesa.github.io/odysseus/)
+589. [~/.https/id_poseidonodysseus](https://abikesa.github.io/odysseus/)[.](https://github.com/abikesa/cheat-sheet/tree/main)
 590. [vectors of nonjbprojects](https://abikesa.github.io/odysseus/markdown.html)[.](https://abikesa.github.io/the-dude/)
 591. [solid lipid nanoparticles](https://abikesa.github.io/encode/)[.](https://abikesa.github.io/branding/)
 592. [personalized](https://abikesa.github.io/personalized/)[.](https://raw.githubusercontent.com/abikesa/greatest-anarchist/refs/heads/main/plant_flicks_frac.py)
