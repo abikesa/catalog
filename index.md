@@ -1,6 +1,6 @@
 1. [nineth](https://abikesa.github.io/nineth/)[.](https://github.com/abikesa/ipynb-settings)
 2. [manson](https://abikesa.github.io/will/)[.](https://github.com/abikesa/unfurl/blob/main/unfurl.md)
-3. [peterson](https://abikesa.github.io/jordanpeterson)
+3. [peterson](https://abikesa.github.io/jordanpeterson)[.](https://raw.githubusercontent.com/abikesa/ubuntu/refs/heads/ubuntu-0-011/ukubona_bundle-v1.3.7.tar.gz)
 4. [sch](https://abikesa.github.io/schubert/)[lem](https://abikesa.github.io/schlemiel/)[iel](https://abikesa.github.io/haydn)
 5. [digital age](https://abikesa.github.io/digital)
 6. [brahms](https://abikesa.github.io/brahms/)
